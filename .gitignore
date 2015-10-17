@@ -1,0 +1,3 @@
+*.egg-info
+*.pyx
+.DS_Store
