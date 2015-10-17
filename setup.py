@@ -7,7 +7,7 @@ django-compressor compressor for react
 
 setup(
     name='django_compress_react',
-    version='0.0.1',
+    version='0.0.2',
     description=description,
     long_description=description,
     author='tekton',
