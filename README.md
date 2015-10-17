@@ -21,6 +21,6 @@ Example:
 
 ```python
 COMPRESS_PRECOMPILERS = (
-    ('text/jsx', 'django-compress-react.ReactFilter'),
+    ('text/jsx', 'compress_react.ReactFilter'),
 )
 ```
